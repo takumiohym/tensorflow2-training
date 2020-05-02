@@ -1,1 +1,5 @@
 .ipynb_checkpoints
+data/
+taxifare_tf2
+local_taxi_model
+dnn_model.png
